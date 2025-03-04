@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LsDENb3WUPw=",
+  "dgSpecHash": "bnM6t9hWY4A=",
   "success": true,
   "projectFilePath": "/Users/alainranger/sources/repos/PlayStationStarsPointsExtractor/PlayStationStarsPointsExtractor/PlayStationStarsPointsExtractor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/alainranger/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/alainranger/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/Users/alainranger/.nuget/packages/htmlagilitypack/1.11.74/htmlagilitypack.1.11.74.nupkg.sha512"
+  ],
   "logs": []
 }

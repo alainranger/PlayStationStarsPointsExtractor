@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayStationStarsPointsExtractor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc914def8c4bc8722e018701cc76e40539407777")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayStationStarsPointsExtractor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayStationStarsPointsExtractor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
